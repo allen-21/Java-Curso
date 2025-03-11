@@ -6,11 +6,11 @@ import java.util.List;
 public class Outros {
 
     public static void main(String[] args) {
-        Aluno a1 =  new Aluno("Allen", 9);
+        Aluno a1 = new Aluno("Allen", 9);
         Aluno a2 = new Aluno("Chelsea Tembe", 20);
         Aluno a3 = new Aluno("blabla", 7);
         Aluno a4 = new Aluno("valter", 17);
-        Aluno a5 =  new Aluno("Allen", 9);
+        Aluno a5 = new Aluno("Allen", 9);
         Aluno a6 = new Aluno("Chelsea zelia Tembe", 20);
         Aluno a7 = new Aluno("blabla", 7);
         Aluno a8 = new Aluno("bla", 17);
